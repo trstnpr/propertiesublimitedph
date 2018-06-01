@@ -1,0 +1,16 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+#customize-theme-controls .upsellsection  .accordion-section-title {
+    border: none;
+    display: none !important;
+}
+
+a.noticebtn {
+	background: red;
+	color: #fff;
+	padding: 1em;
+	text-decoration: none;
+}

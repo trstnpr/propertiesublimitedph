@@ -1,0 +1,2106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PT Real Estate Professional\n"
+"POT-Creation-Date: 2017-08-19 22:07+0300\n"
+"PO-Revision-Date: 2017-08-19 22:12+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: pt-real-estate-proffesional.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-pt-real-estate-proffesional-customizer.php:80
+#: includes/class-pt-real-estate-proffesional-customizer.php:346
+#, fuzzy
+msgid "General"
+msgstr "Główne"
+
+#: includes/class-pt-real-estate-proffesional-customizer.php:81
+#: includes/class-pt-real-estate-proffesional-customizer.php:109
+#: includes/class-pt-real-estate-proffesional-customizer.php:347
+#, fuzzy
+msgid "General Settings"
+msgstr "Ustawienia generalne"
+
+#: includes/class-pt-real-estate-proffesional-customizer.php:86
+#, fuzzy
+msgid "Single Property"
+msgstr "Pojedyńcza strona nieruchomości"
+
+#: includes/class-pt-real-estate-proffesional-customizer.php:87
+#, fuzzy
+msgid "Single Property Settings"
+msgstr "Ustawienia pojedynczej właściwości"
+
+#: includes/class-pt-real-estate-proffesional-customizer.php:99
+#, fuzzy
+msgid "Google Maps API"
+msgstr "Klucz API Google Maps"
+
+#: includes/class-pt-real-estate-proffesional-customizer.php:118
+#, fuzzy
+msgid "Contacts"
+msgstr "Kontakty"
+
+#: includes/class-pt-real-estate-proffesional-customizer.php:126
+#, fuzzy
+msgid "Footer Settings"
+msgstr "Ustawienia Stopki"
+
+#: includes/class-pt-real-estate-proffesional-customizer.php:135
+msgid "Property Listing"
+msgstr "Lista nieruchomości"
+
+#: includes/class-pt-real-estate-proffesional-customizer.php:144
+#, fuzzy
+msgid "Search Properties"
+msgstr "Szukaj ofert"
+
+#: includes/class-pt-real-estate-proffesional-customizer.php:145
+#, fuzzy
+msgid "search"
+msgstr "search"
+
+#: includes/class-pt-real-estate-proffesional-customizer.php:152
+#: includes/class-pt-real-estate-proffesional-post-types.php:135
+#: includes/class-pt-real-estate-proffesional-post-types.php:140
+#, fuzzy
+msgid "Testimonials"
+msgstr "Referencje"
+
+#: includes/class-pt-real-estate-proffesional-customizer.php:153
+#, fuzzy
+msgid "Testimonials Sections"
+msgstr "Sekcje referencje"
+
+#: includes/class-pt-real-estate-proffesional-customizer.php:161
+#: templates/single-property.php:33
+#, fuzzy
+msgid "Property Details"
+msgstr "Szczegóły nieruchomości"
+
+#: includes/class-pt-real-estate-proffesional-customizer.php:169
+#: includes/class-pt-real-estate-proffesional-post-types.php:223
+#: includes/class-pt-real-estate-proffesional-post-types.php:228
+#: templates/single-property.php:40
+#, fuzzy
+msgid "Amenities"
+msgstr "Atrybuty"
+
+#: includes/class-pt-real-estate-proffesional-customizer.php:177
+#: templates/single-property.php:47
+#, fuzzy
+msgid "Video Tour"
+msgstr "Wideo wycieczka"
+
+#: includes/class-pt-real-estate-proffesional-customizer.php:185
+#, fuzzy
+msgid "location"
+msgstr "lokalizacja"
+
+#: includes/class-pt-real-estate-proffesional-customizer.php:196
+#, fuzzy
+msgid "Section title"
+msgstr "Tytuł sekcji"
+
+#: includes/class-pt-real-estate-proffesional-customizer.php:203
+#, fuzzy
+msgid "Number of Posts"
+msgstr "Liczba postów"
+
+#: includes/class-pt-real-estate-proffesional-customizer.php:211
+#, fuzzy
+msgid "Show Featured properties Only"
+msgstr "Pokaż tylko obiekty Polecane"
+
+#: includes/class-pt-real-estate-proffesional-customizer.php:216
+#: includes/class-pt-real-estate-proffesional-customizer.php:253
+#: includes/class-pt-real-estate-proffesional-customizer.php:329
+#: includes/class-pt-real-estate-proffesional-customizer.php:432
+#: includes/class-pt-real-estate-proffesional-customizer.php:445
+#: includes/class-pt-real-estate-proffesional-customizer.php:457
+#: includes/class-pt-real-estate-proffesional-customizer.php:469
+#: includes/class-pt-real-estate-proffesional-customizer.php:481
+#: includes/class-pt-real-estate-proffesional-customizer.php:493
+#: includes/class-pt-real-estate-proffesional-customizer.php:505
+#: includes/class-pt-real-estate-proffesional-customizer.php:519
+#: includes/class-pt-real-estate-proffesional-customizer.php:531
+#: includes/class-pt-real-estate-proffesional-customizer.php:543
+#: includes/class-pt-real-estate-proffesional-customizer.php:555
+#, fuzzy
+msgid "Enable"
+msgstr "Tak"
+
+#: includes/class-pt-real-estate-proffesional-customizer.php:217
+#: includes/class-pt-real-estate-proffesional-customizer.php:254
+#: includes/class-pt-real-estate-proffesional-customizer.php:330
+#: includes/class-pt-real-estate-proffesional-customizer.php:433
+#: includes/class-pt-real-estate-proffesional-customizer.php:446
+#: includes/class-pt-real-estate-proffesional-customizer.php:458
+#: includes/class-pt-real-estate-proffesional-customizer.php:470
+#: includes/class-pt-real-estate-proffesional-customizer.php:482
+#: includes/class-pt-real-estate-proffesional-customizer.php:494
+#: includes/class-pt-real-estate-proffesional-customizer.php:506
+#: includes/class-pt-real-estate-proffesional-customizer.php:520
+#: includes/class-pt-real-estate-proffesional-customizer.php:532
+#: includes/class-pt-real-estate-proffesional-customizer.php:544
+#: includes/class-pt-real-estate-proffesional-customizer.php:556
+#, fuzzy
+msgid "Disable"
+msgstr "Nie"
+
+#: includes/class-pt-real-estate-proffesional-customizer.php:237
+#, fuzzy
+msgid "Currency"
+msgstr "Waluta"
+
+#: includes/class-pt-real-estate-proffesional-customizer.php:239
+#: includes/class-pt-real-estate-proffesional-customizer.php:262
+#: includes/class-pt-real-estate-proffesional-customizer.php:271
+#, fuzzy
+msgid "$"
+msgstr "zł"
+
+#: includes/class-pt-real-estate-proffesional-customizer.php:248
+#, fuzzy
+msgid "Toggle Top bar"
+msgstr "Przełącz pasek górny"
+
+#: includes/class-pt-real-estate-proffesional-customizer.php:260
+#: includes/class-pt-real-estate-proffesional-metabox.php:271
+#, fuzzy
+msgid "Telephone"
+msgstr "Telefon"
+
+#: includes/class-pt-real-estate-proffesional-customizer.php:269
+#: includes/class-pt-real-estate-proffesional-metabox.php:285
+#, fuzzy
+msgid "Email"
+msgstr "E-mail"
+
+#: includes/class-pt-real-estate-proffesional-customizer.php:278
+#, fuzzy
+msgid "Facebook"
+msgstr "Cherry - Widget polubień Facebooka"
+
+#: includes/class-pt-real-estate-proffesional-customizer.php:285
+#, fuzzy
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/class-pt-real-estate-proffesional-customizer.php:292
+#, fuzzy
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: includes/class-pt-real-estate-proffesional-customizer.php:299
+#, fuzzy
+msgid "G+"
+msgstr "G"
+
+#: includes/class-pt-real-estate-proffesional-customizer.php:306
+#, fuzzy
+msgid "YouTube"
+msgstr "YouTube"
+
+#: includes/class-pt-real-estate-proffesional-customizer.php:313
+#, fuzzy
+msgid "Property Slider"
+msgstr "Slajdy nieruchomości"
+
+#: includes/class-pt-real-estate-proffesional-customizer.php:318
+#, fuzzy
+msgid ""
+"The Property sliders displays properties that have the \"featured\" checkbox "
+"ticked"
+msgstr ""
+"Suwaki właściwości wyświetla właściwości, które mają \"Rekomendowane\" pole "
+"wyboru, zaznaczone"
+
+#: includes/class-pt-real-estate-proffesional-customizer.php:324
+#, fuzzy
+msgid "Toggle Slider"
+msgstr "Przełącz suwak"
+
+#: includes/class-pt-real-estate-proffesional-customizer.php:337
+#, fuzzy
+msgid "Number of Slides"
+msgstr "Liczba slidów"
+
+#: includes/class-pt-real-estate-proffesional-customizer.php:357
+#: includes/class-pt-real-estate-proffesional-customizer.php:358
+#, fuzzy
+msgid "Front Page Sections"
+msgstr "Sekcje strony głównej"
+
+#: includes/class-pt-real-estate-proffesional-customizer.php:365
+#, fuzzy
+msgid "Footer background color"
+msgstr "Kolor tła stopki"
+
+#: includes/class-pt-real-estate-proffesional-customizer.php:381
+#, fuzzy
+msgid "Footer Text Color"
+msgstr "Kolor Tekstu Stopki"
+
+#: includes/class-pt-real-estate-proffesional-customizer.php:427
+#: includes/class-pt-real-estate-proffesional-customizer.php:440
+#: includes/class-pt-real-estate-proffesional-customizer.php:452
+#: includes/class-pt-real-estate-proffesional-customizer.php:464
+#: includes/class-pt-real-estate-proffesional-customizer.php:476
+#: includes/class-pt-real-estate-proffesional-customizer.php:488
+#: includes/class-pt-real-estate-proffesional-customizer.php:500
+#: includes/class-pt-real-estate-proffesional-customizer.php:514
+#: includes/class-pt-real-estate-proffesional-customizer.php:526
+#: includes/class-pt-real-estate-proffesional-customizer.php:538
+#: includes/class-pt-real-estate-proffesional-customizer.php:550
+#, fuzzy
+msgid "Show This Section"
+msgstr "Pokaż ta sekcje w"
+
+#: includes/class-pt-real-estate-proffesional-functions.php:109
+#: includes/class-pt-real-estate-proffesional-functions.php:158
+#, fuzzy
+msgid "Year Built: "
+msgstr "Rok budowy"
+
+#: includes/class-pt-real-estate-proffesional-functions.php:114
+#, fuzzy
+msgid "Property ID: "
+msgstr "Numer oferty"
+
+#: includes/class-pt-real-estate-proffesional-functions.php:119
+#: includes/class-pt-real-estate-proffesional-functions.php:164
+#, fuzzy
+msgid "Rooms: "
+msgstr "Liczba pokoi: "
+
+#: includes/class-pt-real-estate-proffesional-functions.php:124
+#: includes/class-pt-real-estate-proffesional-functions.php:169
+#, fuzzy
+msgid "Beds: "
+msgstr "Pokoje"
+
+#: includes/class-pt-real-estate-proffesional-functions.php:129
+#: includes/class-pt-real-estate-proffesional-functions.php:174
+#, fuzzy
+msgid "Baths: "
+msgstr "Łazienka:"
+
+#: includes/class-pt-real-estate-proffesional-functions.php:134
+#: includes/class-pt-real-estate-proffesional-functions.php:179
+#, fuzzy
+msgid "garages: "
+msgstr "warsztaty samochodowe"
+
+#: includes/class-pt-real-estate-proffesional-functions.php:139
+#: includes/class-pt-real-estate-proffesional-functions.php:184
+#, fuzzy
+msgid "Lot Area: "
+msgstr "Powierzchnia gruntu"
+
+#: includes/class-pt-real-estate-proffesional-functions.php:144
+#, fuzzy
+msgid "Contract: "
+msgstr "Kontrakt:"
+
+#: includes/class-pt-real-estate-proffesional-functions.php:308
+#: includes/class-pt-real-estate-proffesional-functions.php:478
+#: templates/taxonomy-location.php:78
+#, fuzzy
+msgid "Featured"
+msgstr "Wyróżniony"
+
+#: includes/class-pt-real-estate-proffesional-functions.php:325
+#: includes/class-pt-real-estate-proffesional-functions.php:489
+#: templates/taxonomy-location.php:91
+#, fuzzy
+msgid "Beds"
+msgstr "Pokoje"
+
+#: includes/class-pt-real-estate-proffesional-functions.php:330
+#: includes/class-pt-real-estate-proffesional-functions.php:494
+#: templates/taxonomy-location.php:96
+#, fuzzy
+msgid "Baths"
+msgstr "Łazienka"
+
+#: includes/class-pt-real-estate-proffesional-functions.php:335
+#: includes/class-pt-real-estate-proffesional-functions.php:499
+#: includes/class-pt-real-estate-proffesional-metabox.php:135
+#: templates/taxonomy-location.php:101
+#, fuzzy
+msgid "Rooms"
+msgstr "Liczba pokoi"
+
+#: includes/class-pt-real-estate-proffesional-functions.php:517
+#: libraries/kirki/includes/class-kirki-l10n.php:200
+#: libraries/kirki/includes/sections/class-kirki-sections-hover-section.php:46
+#, fuzzy
+msgid "Back"
+msgstr "Powrót"
+
+#: includes/class-pt-real-estate-proffesional-functions.php:518
+#: libraries/merlin/merlin-config.php:37
+#, fuzzy
+msgid "Next"
+msgstr "Następny"
+
+#: includes/class-pt-real-estate-proffesional-functions.php:519
+#, fuzzy
+msgid "Posts navigation"
+msgstr "Nawigacja postów"
+
+#: includes/class-pt-real-estate-proffesional-functions.php:590
+#, fuzzy
+msgid "Rent"
+msgstr "Wynajem"
+
+#: includes/class-pt-real-estate-proffesional-functions.php:591
+#: includes/class-pt-real-estate-proffesional-metabox.php:110
+#, fuzzy
+msgid "Sale"
+msgstr "Wyprzedaż"
+
+#: includes/class-pt-real-estate-proffesional-metabox.php:78
+#, fuzzy
+msgid "Property Features"
+msgstr "Cechy"
+
+#: includes/class-pt-real-estate-proffesional-metabox.php:109
+#, fuzzy
+msgid "Rental"
+msgstr "Wypożyczalnia"
+
+#: includes/class-pt-real-estate-proffesional-metabox.php:111
+#, fuzzy
+msgid "Sold"
+msgstr "Sprzedany"
+
+#: includes/class-pt-real-estate-proffesional-metabox.php:136
+#, fuzzy
+msgid "Number of Rooms"
+msgstr "Ilość Pokojów"
+
+#: includes/class-pt-real-estate-proffesional-metabox.php:253
+#, fuzzy
+msgid "Agent Contacts"
+msgstr "Kontakty agenta"
+
+#: includes/class-pt-real-estate-proffesional-metabox.php:265
+#, fuzzy
+msgid "title"
+msgstr "tytuł"
+
+#: includes/class-pt-real-estate-proffesional-metabox.php:266
+#, fuzzy
+msgid "Your Title, e.g Owner, Landlord, Agent etc"
+msgstr "Twój tytuł, np. właściciel, właściciel, Agent itp"
+
+#: includes/class-pt-real-estate-proffesional-metabox.php:272
+#, fuzzy
+msgid "Telephone Number"
+msgstr "Telefon"
+
+#: includes/class-pt-real-estate-proffesional-metabox.php:277
+#, fuzzy
+msgid "Mobile"
+msgstr "Telefon komórkowy"
+
+#: includes/class-pt-real-estate-proffesional-metabox.php:278
+#, fuzzy
+msgid "Mobile Number"
+msgstr "Telefon komórkowy"
+
+#: includes/class-pt-real-estate-proffesional-metabox.php:286
+#, fuzzy
+msgid "Email Address"
+msgstr "Adres e-mail"
+
+#: includes/class-pt-real-estate-proffesional-metabox.php:293
+#, fuzzy
+msgid "Address"
+msgstr "Adres"
+
+#: includes/class-pt-real-estate-proffesional-metabox.php:294
+#, fuzzy
+msgid "Your Location"
+msgstr "Twoje położenie"
+
+#: includes/class-pt-real-estate-proffesional-metabox.php:316
+#: includes/class-pt-real-estate-proffesional-metabox.php:323
+#, fuzzy
+msgid "Assign Agent"
+msgstr "Wysłanie Agenta"
+
+#: includes/class-pt-real-estate-proffesional-metabox.php:324
+#, fuzzy
+msgid ""
+"Drag agents from the left column to the right column to attach them to this "
+"property.<br />You may rearrange the order of the agents in the right column "
+"by dragging and dropping."
+msgstr ""
+"Przeciągnij agentów w lewej kolumnie prawej kolumna, aby dołączyć je do tej "
+"właściwości.<br>Może zmienić kolejność agentów w kolumnie po prawej stronie, "
+"przeciągając i upuszczając."
+
+#: includes/class-pt-real-estate-proffesional-post-types.php:73
+#: includes/class-pt-real-estate-proffesional-post-types.php:78
+#, fuzzy
+msgid "Properties"
+msgstr "Nieruchomości"
+
+#: includes/class-pt-real-estate-proffesional-post-types.php:74
+#, fuzzy
+msgid "Property"
+msgstr "Nieruchomość"
+
+#: includes/class-pt-real-estate-proffesional-post-types.php:104
+#: includes/class-pt-real-estate-proffesional-post-types.php:109
+#, fuzzy
+msgid "Agents"
+msgstr "Agenci"
+
+#: includes/class-pt-real-estate-proffesional-post-types.php:105
+#, fuzzy
+msgid "Agent"
+msgstr "Agent"
+
+#: includes/class-pt-real-estate-proffesional-post-types.php:136
+#, fuzzy
+msgid "Testimony"
+msgstr "______  Zeznanie:"
+
+#: includes/class-pt-real-estate-proffesional-post-types.php:169
+#: includes/class-pt-real-estate-proffesional-post-types.php:170
+#: includes/class-pt-real-estate-proffesional-post-types.php:174
+#: templates/single-property.php:56
+#, fuzzy
+msgid "Location"
+msgstr "Lokalizacja"
+
+#: includes/class-pt-real-estate-proffesional-post-types.php:196
+#: includes/class-pt-real-estate-proffesional-post-types.php:197
+#: includes/class-pt-real-estate-proffesional-post-types.php:201
+#: libraries/tgm/class-tgm-plugin-activation.php:2438
+#, fuzzy
+msgid "Type"
+msgstr "Rodzaj"
+
+#: includes/class-pt-real-estate-proffesional-post-types.php:224
+#, fuzzy
+msgid "Amenity"
+msgstr "Wyposażenie"
+
+#: libraries/cmb2-attached-posts/example-field-setup.php:22
+#: libraries/cmb2-attached-posts/example-field-setup.php:30
+#, fuzzy
+msgid "Attached Posts"
+msgstr "Załączony postów"
+
+#: libraries/cmb2-attached-posts/example-field-setup.php:31
+#, fuzzy
+msgid ""
+"Drag posts from the left column to the right column to attach them to this "
+"page.<br />You may rearrange the order of the posts in the right column by "
+"dragging and dropping."
+msgstr ""
+"Przeciągnij posty w lewej kolumnie prawej kolumna, aby dołączyć je do tej "
+"strony.<br>Może zmienić kolejność wpisów w kolumnie po prawej stronie, "
+"przeciągając i upuszczając."
+
+#: libraries/cmb2-attached-posts/example-field-setup.php:45
+#, fuzzy
+msgid "Attached Users"
+msgstr "Dołączonych użytkowników"
+
+#: libraries/cmb2-attached-posts/example-field-setup.php:46
+#, fuzzy
+msgid ""
+"Drag users from the left column to the right column to attach them to this "
+"page.<br />You may rearrange the order of the users in the right column by "
+"dragging and dropping."
+msgstr ""
+"Przeciągnij użytkownicy w lewej kolumnie prawej kolumna, aby dołączyć je do "
+"tej strony.<br>Może zmienić kolejność użytkowników w kolumnie po prawej "
+"stronie, przeciągając i upuszczając."
+
+#: libraries/cmb2-attached-posts/init.php:117
+#, fuzzy
+msgid "Users"
+msgstr "Użytkowników"
+
+#: libraries/cmb2-attached-posts/init.php:123
+#, fuzzy, php-format
+msgid "Filter %s"
+msgstr "Filtr %s"
+
+#: libraries/cmb2-attached-posts/init.php:141
+#, fuzzy, php-format
+msgid "Available %s"
+msgstr "%s dostępny"
+
+#: libraries/cmb2-attached-posts/init.php:161
+#, fuzzy
+msgid "Search"
+msgstr "Szukaj"
+
+#: libraries/cmb2-attached-posts/init.php:167
+#, fuzzy
+msgid "An error has occurred. Please reload the page and try again."
+msgstr "Wystąpił błąd. Załaduj ponownie stronę i spróbuj ponownie."
+
+#: libraries/cmb2-attached-posts/init.php:168
+#, fuzzy
+msgid "Find Posts or Pages"
+msgstr "Znajdź posty lub strony"
+
+#: libraries/cmb2-attached-posts/init.php:181
+#, fuzzy, php-format
+msgid "Attached %s"
+msgstr "Załączony %s"
+
+#: libraries/cmb2-attached-posts/init.php:289
+#, fuzzy
+msgid "Edit"
+msgstr "Edytuj"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:104
+#, fuzzy
+msgid "Background Color"
+msgstr "Kolor tła"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:105
+#, fuzzy
+msgid "Background Image"
+msgstr "Obrazek tła"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:106
+#, fuzzy
+msgid "No Repeat"
+msgstr "Bez Powtarzania"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:107
+#, fuzzy
+msgid "Repeat All"
+msgstr "Powtarzaj wszystko"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:108
+#, fuzzy
+msgid "Repeat Horizontally"
+msgstr "Powtarzaj poziomo"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:109
+#, fuzzy
+msgid "Repeat Vertically"
+msgstr "Powtarzaj pionowo"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:110
+#, fuzzy
+msgid "Inherit"
+msgstr "Dziedziczne"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:111
+#, fuzzy
+msgid "Background Repeat"
+msgstr "Powtarzanie tła"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:112
+#, fuzzy
+msgid "Cover"
+msgstr "Okładka"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:113
+#, fuzzy
+msgid "Contain"
+msgstr "Rozciągnięcie"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:114
+#, fuzzy
+msgid "Background Size"
+msgstr "Rozmiar tła"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:115
+#, fuzzy
+msgid "Fixed"
+msgstr "Nieruchomy"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:116
+#, fuzzy
+msgid "Scroll"
+msgstr "Przewijanie"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:117
+#, fuzzy
+msgid "Background Attachment"
+msgstr "Zachowanie tła"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:118
+#, fuzzy
+msgid "Left Top"
+msgstr "Lewa góra"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:119
+#, fuzzy
+msgid "Left Center"
+msgstr "Wyśrodkuj do lewej"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:120
+#, fuzzy
+msgid "Left Bottom"
+msgstr "Lewy dół"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:121
+#, fuzzy
+msgid "Right Top"
+msgstr "Prawa góra"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:122
+#, fuzzy
+msgid "Right Center"
+msgstr "Wyśrodkuj do prawej"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:123
+#, fuzzy
+msgid "Right Bottom"
+msgstr "Prawy dół"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:124
+#, fuzzy
+msgid "Center Top"
+msgstr "Środek góra"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:125
+#, fuzzy
+msgid "Center Center"
+msgstr "Wyśrodkowany po środku"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:126
+#, fuzzy
+msgid "Center Bottom"
+msgstr "Środek dół"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:127
+#, fuzzy
+msgid "Background Position"
+msgstr "Pozycja tła"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:128
+#, fuzzy
+msgid "Background Opacity"
+msgstr "Krycie tła"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:129
+#, fuzzy
+msgid "ON"
+msgstr "WŁ."
+
+#: libraries/kirki/includes/class-kirki-l10n.php:130
+#, fuzzy
+msgid "OFF"
+msgstr "WYŁ."
+
+#: libraries/kirki/includes/class-kirki-l10n.php:131
+#, fuzzy
+msgid "All"
+msgstr "Wszystko"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:132
+#, fuzzy
+msgid "Cyrillic"
+msgstr "Cyrillic"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:133
+#, fuzzy
+msgid "Cyrillic Extended"
+msgstr "Cyrylica rozszerzona"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:134
+#, fuzzy
+msgid "Devanagari"
+msgstr "Devanagari"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:135
+#, fuzzy
+msgid "Greek"
+msgstr "Grecki"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:136
+#, fuzzy
+msgid "Greek Extended"
+msgstr "Grecki rozszerzony"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:137
+#, fuzzy
+msgid "Khmer"
+msgstr "Khmer"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:138
+#, fuzzy
+msgid "Latin"
+msgstr "Łaciński"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:139
+#, fuzzy
+msgid "Latin Extended"
+msgstr "Łaciński rozszerzony"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:140
+#, fuzzy
+msgid "Vietnamese"
+msgstr "Wietnamski"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:141
+#, fuzzy
+msgid "Hebrew"
+msgstr "Hebrajski"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:142
+#, fuzzy
+msgid "Arabic"
+msgstr "Arabski"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:143
+#, fuzzy
+msgid "Bengali"
+msgstr "Bengalski"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:144
+#, fuzzy
+msgid "Gujarati"
+msgstr "Gudżaracki"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:145
+#, fuzzy
+msgid "Tamil"
+msgstr "Tamil"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:146
+#, fuzzy
+msgid "Telugu"
+msgstr "Telugu"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:147
+#, fuzzy
+msgid "Thai"
+msgstr "Tajski"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:148
+#, fuzzy
+msgctxt "font style"
+msgid "Serif"
+msgstr "Serif"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:149
+#, fuzzy
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:150
+#, fuzzy
+msgctxt "font style"
+msgid "Monospace"
+msgstr "Równa szerokość"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:151
+#, fuzzy
+msgid "Font Family"
+msgstr "Czcionka"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:152
+#, fuzzy
+msgid "Font Size"
+msgstr "Rozmiar Czcionki"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:153
+#, fuzzy
+msgid "Font Weight"
+msgstr "Grubość czcionki"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:154
+#, fuzzy
+msgid "Line Height"
+msgstr "Wysokość linii w głównej treści strony"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:155
+#, fuzzy
+msgid "Font Style"
+msgstr "Styl czcionki"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:156
+#, fuzzy
+msgid "Letter Spacing"
+msgstr "Odległość liter"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:157
+#, fuzzy
+msgid "Top"
+msgstr "U góry"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:158
+#, fuzzy
+msgid "Bottom"
+msgstr "U dołu"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:159
+#, fuzzy
+msgid "Left"
+msgstr "Po lewej"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:160
+#, fuzzy
+msgid "Right"
+msgstr "Po prawej"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:161
+#, fuzzy
+msgid "Center"
+msgstr "Wyśrodkuj"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:162
+#, fuzzy
+msgid "Justify"
+msgstr "Wyjustowany"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:163
+#, fuzzy
+msgid "Color"
+msgstr "Kolor"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:164
+#, fuzzy
+msgid "Add Image"
+msgstr "Dodaj obrazek"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:165
+#, fuzzy
+msgid "Change Image"
+msgstr "Zmień obrazek"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:166
+#, fuzzy
+msgid "No Image Selected"
+msgstr "Nie wybrano obrazka"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:167
+#, fuzzy
+msgid "Add File"
+msgstr "Dodaj plik"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:168
+#, fuzzy
+msgid "Change File"
+msgstr "Zmień plik"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:169
+#, fuzzy
+msgid "No File Selected"
+msgstr "Nie wybrano pliku"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:170
+#, fuzzy
+msgid "Remove"
+msgstr "Usuń"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:171
+#, fuzzy
+msgid "Select a font-family"
+msgstr "Czcionka"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:172
+#, fuzzy
+msgid "Variant"
+msgstr "Wariant"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:173
+#, fuzzy
+msgid "Subset"
+msgstr "Podzbiór"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:174
+#, fuzzy
+msgid "Size"
+msgstr "Rozmiar"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:175
+#, fuzzy
+msgid "Height"
+msgstr "Wysokość"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:176
+#, fuzzy
+msgid "Spacing"
+msgstr "Odstęp"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:177
+#, fuzzy
+msgid "Ultra-Light 100"
+msgstr "Bardzo cienka"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:178
+#, fuzzy
+msgid "Ultra-Light 100 Italic"
+msgstr "Ultra-Light 100 Italic"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:179
+#, fuzzy
+msgid "Light 200"
+msgstr "Light 200"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:180
+#, fuzzy
+msgid "Light 200 Italic"
+msgstr "Light 200 Italic"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:181
+#, fuzzy
+msgid "Book 300"
+msgstr "Book 300"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:182
+#, fuzzy
+msgid "Book 300 Italic"
+msgstr "Book 300 Italic"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:183
+#, fuzzy
+msgid "Normal 400"
+msgstr "Normalna 400"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:184
+#, fuzzy
+msgid "Normal 400 Italic"
+msgstr "Normalna 400 Italic"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:185
+#, fuzzy
+msgid "Medium 500"
+msgstr "Medium 500"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:186
+#, fuzzy
+msgid "Medium 500 Italic"
+msgstr "Medium 500 Italic"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:187
+#, fuzzy
+msgid "Semi-Bold 600"
+msgstr "Semi-Bold 600"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:188
+#, fuzzy
+msgid "Semi-Bold 600 Italic"
+msgstr "Semi-Bold 600 Italic"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:189
+#, fuzzy
+msgid "Bold 700"
+msgstr "Bold 700"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:190
+#, fuzzy
+msgid "Bold 700 Italic"
+msgstr "Bold 700 Italic"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:191
+#, fuzzy
+msgid "Extra-Bold 800"
+msgstr "Extra-Bold 800"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:192
+#, fuzzy
+msgid "Extra-Bold 800 Italic"
+msgstr "Extra-Bold 800 Italic"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:193
+#, fuzzy
+msgid "Ultra-Bold 900"
+msgstr "Ultra-Bold 900"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:194
+#, fuzzy
+msgid "Ultra-Bold 900 Italic"
+msgstr "Ultra-Bold 900 Italic"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:195
+#, fuzzy
+msgid "Invalid Value"
+msgstr "Niewłaściwa wartość"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:196
+#, fuzzy
+msgid "Add new"
+msgstr "Dodaj nowe"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:197
+#, fuzzy
+msgid "row"
+msgstr "nr_wiersza"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:198
+#, fuzzy, php-format
+msgid "Limit: %s rows"
+msgstr "Limit: %s wierszy"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:199
+#: libraries/kirki/includes/sections/class-kirki-sections-hover-section.php:40
+#, fuzzy
+msgid "Press return or enter to open this section"
+msgstr "Wciśnij klawisz Wróć lub  Enter, aby otworzyć"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:201
+#, fuzzy, php-format
+msgid "%s Reset"
+msgstr "Quiz %s zresetowany"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:202
+#, fuzzy
+msgid "Text Align"
+msgstr "Wyrównanie tekstu"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:203
+#, fuzzy
+msgid "Text Transform"
+msgstr "Przekształcanie tekstu"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:204
+#, fuzzy
+msgid "None"
+msgstr "Brak"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:205
+#, fuzzy
+msgid "Capitalize"
+msgstr "Kapitaliki"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:206
+#, fuzzy
+msgid "Uppercase"
+msgstr "Duże litery"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:207
+#, fuzzy
+msgid "Lowercase"
+msgstr "Małymi literami"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:208
+#, fuzzy
+msgid "Initial"
+msgstr "Początkowe"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:209
+#, fuzzy
+msgid "Select a Page"
+msgstr "Wybierz stronę"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:210
+#, fuzzy
+msgid "Open Editor"
+msgstr "Otwórz edytor"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:211
+#, fuzzy
+msgid "Close Editor"
+msgstr "Zamknij plik edytora"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:212
+#, fuzzy
+msgid "Switch Editor"
+msgstr "Przełącznik edytora"
+
+#: libraries/kirki/includes/class-kirki-l10n.php:213
+#, fuzzy
+msgid "Hex Value"
+msgstr "Wartość szesnastkowa"
+
+#: libraries/merlin/includes/class-merlin-importer.php:97
+#, fuzzy
+msgid ""
+"This user is created while installing demo content. You should delete or "
+"modify this user&#8217;s information now."
+msgstr ""
+"Ten użytkownik jest tworzony podczas instalacji zawartości demo. Należy "
+"usunąć lub zmodyfikować ten użytkownik &#8217; s informacji teraz."
+
+#: libraries/merlin/includes/class-merlin-importer.php:662
+#, fuzzy
+msgid "Invalid attachment file type!"
+msgstr "Typ nieprawidłowy załącznik pliku!"
+
+#: libraries/merlin/includes/class-merlin-importer.php:838
+#, fuzzy, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr "Zdalny serwer zwrócił %1$d %2$s dla %3$s"
+
+#: libraries/merlin/includes/class-merlin-importer.php:846
+#, fuzzy
+msgid "Remote file is incorrect size"
+msgstr "Zdalny plik ma niepoprawny rozmiar"
+
+#: libraries/merlin/includes/class-merlin-importer.php:851
+#, fuzzy
+msgid "Zero size file downloaded."
+msgstr "Pobrano plik o zerowym rozmiarze."
+
+#: libraries/merlin/includes/class-merlin-importer.php:858
+#, fuzzy, php-format
+msgid "Remote file is too large, limit is %s."
+msgstr "Zdalny plik jest za duży, limit to %s"
+
+#: libraries/merlin/includes/class-merlin-importer.php:1141
+#: libraries/merlin/includes/class-merlin-importer.php:1142
+#, fuzzy
+msgid "Taxonomy names must be between 1 and 32 characters in length."
+msgstr "Taksonomia nazwy muszą być od 1 do 32 znaków długości."
+
+#: libraries/merlin/includes/class-merlin-xml-parser.php:42
+#: libraries/merlin/includes/class-merlin-xml-parser.php:67
+#: libraries/merlin/includes/class-merlin-xml-parser.php:75
+#: libraries/merlin/includes/class-merlin-xml-parser.php:79
+#: libraries/merlin/includes/class-merlin-xml-parser.php:274
+#, fuzzy
+msgid "Invalid WXR file."
+msgstr "WXR pliku nieprawidłowy."
+
+#: libraries/merlin/includes/class-merlin-xml-parser.php:50
+#, fuzzy
+msgid "No XML parser found."
+msgstr "Nie znaleziono parsera XML."
+
+#: libraries/merlin/includes/class-merlin-xml-parser.php:263
+#, fuzzy
+msgid "Could not open the file for parsing"
+msgstr "Nie można otworzyć pliku podczas przetwarzania"
+
+#: libraries/merlin/merlin-config.php:31
+#, fuzzy
+msgid "Theme Setup"
+msgstr "Ustawienia stylów"
+
+#: libraries/merlin/merlin-config.php:32
+#, fuzzy, php-format
+msgid "%s%s Themes &lsaquo; Theme Setup: %s%s"
+msgstr "%s %s motywy &lsaquo; tematu instalacji: %s %s"
+
+#: libraries/merlin/merlin-config.php:34
+#: libraries/tgm/class-tgm-plugin-activation.php:398
+#, fuzzy
+msgid "Return to the dashboard"
+msgstr "Powrót do panelu"
+
+#: libraries/merlin/merlin-config.php:36
+#, fuzzy
+msgid "Skip"
+msgstr "Pomiń"
+
+#: libraries/merlin/merlin-config.php:38
+#, fuzzy
+msgid "Start"
+msgstr "Początek"
+
+#: libraries/merlin/merlin-config.php:39
+#, fuzzy
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: libraries/merlin/merlin-config.php:40 libraries/merlin/merlin-config.php:41
+#: libraries/merlin/merlin-config.php:42 libraries/merlin/merlin.php:889
+#: libraries/tgm/class-tgm-plugin-activation.php:2603
+#, fuzzy
+msgid "Install"
+msgstr "Pobierz i zainstaluj"
+
+#: libraries/merlin/merlin-config.php:43
+#, fuzzy
+msgid "Import"
+msgstr "Import..."
+
+#: libraries/merlin/merlin-config.php:44 libraries/merlin/merlin.php:895
+#: libraries/tgm/class-tgm-plugin-activation.php:2612
+#, fuzzy
+msgid "Activate"
+msgstr "Aktywuj"
+
+#: libraries/merlin/merlin-config.php:46
+#, fuzzy
+msgid "Welcome to Real Estate PRO"
+msgstr "Witamy na nieruchomości PRO"
+
+#: libraries/merlin/merlin-config.php:47
+#, fuzzy
+msgid "Hi. Welcome back"
+msgstr "Cześć. Witamy ponownie"
+
+#: libraries/merlin/merlin-config.php:48
+#, fuzzy
+msgid ""
+"This wizard will set up your theme, install plugins, and import content. It "
+"is optional & should take only a few minutes."
+msgstr ""
+"Ten Kreator będzie skonfigurować Twojego tematu, zainstalować wtyczki i "
+"zaimportować zawartość. To jest opcjonalne & powinno zająć tylko kilka minut."
+
+#: libraries/merlin/merlin-config.php:49
+#, fuzzy
+msgid ""
+"You may have already run this theme setup wizard. If you would like to "
+"proceed anyway, click on the \"Start\" button below."
+msgstr ""
+"Może uruchomiono już Kreatora instalacji tego tematu. Jeśli chcieliby "
+"Państwo czy mimo to kontynuować, kliknij na poniższy przycisk \"Start\"."
+
+#: libraries/merlin/merlin-config.php:51
+#, fuzzy
+msgid "Install Child Theme"
+msgstr "Zainstalować motyw dziecka"
+
+#: libraries/merlin/merlin-config.php:52
+#, fuzzy
+msgid "You're good to go!"
+msgstr "i jesteś gotowa do wyjścia"
+
+#: libraries/merlin/merlin-config.php:53
+#, fuzzy
+msgid ""
+"Let’s build & activate a child theme so you may easily make theme changes."
+msgstr ""
+"Let's build & Uaktywnij jeden z tematów dziecko, więc może łatwo wprowadzić "
+"zmiany tematu."
+
+#: libraries/merlin/merlin-config.php:54
+#, fuzzy
+msgid ""
+"Your child theme has already been installed and is now activated — if it "
+"wasn't already."
+msgstr ""
+"Motyw dziecka już został zainstalowany i jest teraz aktywowany — jeśli już "
+"nie było."
+
+#: libraries/merlin/merlin-config.php:55
+#, fuzzy
+msgid "Learn about child themes"
+msgstr "Dowiedz się więcej o motywy dla dzieci"
+
+#: libraries/merlin/merlin-config.php:56
+#, fuzzy
+msgid ""
+"Awesome. Your child theme has already been installed and is now activated."
+msgstr ""
+"Niesamowite. Motyw dziecka już został zainstalowany i jest teraz aktywna."
+
+#: libraries/merlin/merlin-config.php:57
+#, fuzzy
+msgid "Awesome. Your child theme has been created and is now activated."
+msgstr "Niesamowite. Motyw został utworzony i jest teraz aktywna."
+
+#: libraries/merlin/merlin-config.php:59
+#: libraries/tgm/class-tgm-plugin-activation.php:334
+#, fuzzy
+msgid "Install Plugins"
+msgstr "Zainstaluj wtyczki"
+
+#: libraries/merlin/merlin-config.php:60
+#, fuzzy
+msgid "You're up to speed!"
+msgstr "Jesteś na bieżąco!"
+
+#: libraries/merlin/merlin-config.php:61
+#, fuzzy
+msgid ""
+"Let’s install some essential WordPress plugins to get your site up to speed."
+"(might take up to 5 minutes)"
+msgstr ""
+"Let's zainstalować niektóre essential WordPress wtyczki, aby uzyskać witryny "
+"do prędkości. (może potrwać do 5 minut)"
+
+#: libraries/merlin/merlin-config.php:62
+#, fuzzy
+msgid ""
+"The required WordPress plugins are all installed and up to date. Press \"Next"
+"\" to continue the setup wizard."
+msgstr ""
+"Wymagane wtyczki WordPress są zainstalowane i na bieżąco. Naciśnij przycisk "
+"Dalej, aby kontynuować pracę Kreatora instalacji."
+
+#: libraries/merlin/merlin-config.php:63 libraries/merlin/merlin-config.php:67
+#, fuzzy
+msgid "Advanced"
+msgstr "Zaawansowane"
+
+#: libraries/merlin/merlin-config.php:65
+#, fuzzy
+msgid "Import Content"
+msgstr "Zawartość importu"
+
+#: libraries/merlin/merlin-config.php:66
+#, fuzzy
+msgid ""
+"Let’s import content to your website, to help you get familiar with the "
+"theme.(might take up to 10 minutes)"
+msgstr ""
+"Let's zaimportować zawartość do witryny, aby pomóc Ci zapoznać się z "
+"tematem. (może potrwać do 10 minut)"
+
+#: libraries/merlin/merlin-config.php:69
+#, fuzzy, php-format
+msgid "Activate %s"
+msgstr "Aktywuj %s"
+
+#: libraries/merlin/merlin-config.php:70
+#, fuzzy
+msgid "Add your license key to activate one-click updates and theme support."
+msgstr ""
+"Dodaj klucz licencyjny, aby aktywować jednym kliknięciem aktualizacji i "
+"tematu pomocy."
+
+#: libraries/merlin/merlin-config.php:71
+#, fuzzy
+msgid "More info"
+msgstr "Więcej informacji"
+
+#: libraries/merlin/merlin-config.php:73
+#, fuzzy, php-format
+msgid "<a href=\"http://support.thepixeltribe.com\" target=\"_blank\">%s</a>"
+msgstr "<a href='%s' class='title_of_job2'>%s</a>"
+
+#: libraries/merlin/merlin-config.php:74 libraries/merlin/merlin-config.php:83
+#, fuzzy, php-format
+msgid "<a href=\"https://thepixeltribe.com/contact/\" target=\"_blank\">%s</a>"
+msgstr "<a href='%s' class='title_of_job2'>%s</a>"
+
+#: libraries/merlin/merlin-config.php:75 libraries/merlin/merlin-config.php:84
+#, fuzzy
+msgid "<a href=\""
+msgstr "< href = \""
+
+#: libraries/merlin/merlin-config.php:77
+#, fuzzy
+msgid "All done. Have fun!"
+msgstr "Wszystko zrobione. Baw się dobrze!"
+
+#: libraries/merlin/merlin-config.php:78
+#, fuzzy, php-format
+msgid "Your theme has been all set up. Enjoy your new theme by %s."
+msgstr "Twój temat wszystkich powołano. Cieszyć się Twój nowy motyw przez %s."
+
+#: libraries/merlin/merlin-config.php:79
+#, fuzzy
+msgid "Extras"
+msgstr "Dodatki"
+
+#: libraries/merlin/merlin-config.php:80
+#, fuzzy
+msgid "View your website"
+msgstr "Twoja strona"
+
+#: libraries/merlin/merlin-config.php:82
+#, fuzzy, php-format
+msgid "<a href=\"https://support.thepixeltribe.com\" target=\"_blank\">%s</a>"
+msgstr "<a href='%s' class='title_of_job2'>%s</a>"
+
+#: libraries/merlin/merlin.php:507
+#, fuzzy
+msgid "Please define default parameters in the form of an array."
+msgstr "Należy zdefiniować parametry domyślne w postaci tablicy."
+
+#: libraries/merlin/merlin.php:512
+#, fuzzy
+msgid "Please define an SVG icon filename."
+msgstr "Zdefiniuj nazwę pliku ikony SVG."
+
+#: libraries/merlin/merlin.php:606
+#, fuzzy
+msgid "Welcome"
+msgstr "Witaj"
+
+#: libraries/merlin/merlin.php:613
+#, fuzzy
+msgid "Child"
+msgstr "Dzieci"
+
+#: libraries/merlin/merlin.php:620
+#, fuzzy
+msgid "Plugins"
+msgstr "Wtyczki"
+
+#: libraries/merlin/merlin.php:637
+#, fuzzy
+msgid "Content"
+msgstr "Zawartość"
+
+#: libraries/merlin/merlin.php:643
+#, fuzzy
+msgid "Ready"
+msgstr "Gotowy"
+
+#: libraries/merlin/merlin.php:892
+#: libraries/tgm/class-tgm-plugin-activation.php:2609
+#, fuzzy
+msgid "Update"
+msgstr "Uaktualnij"
+
+#: libraries/merlin/merlin.php:897
+#, fuzzy
+msgid "and"
+msgstr "i"
+
+#: libraries/merlin/merlin.php:1420
+#, fuzzy
+msgid "Activating"
+msgstr "Aktywowanie text for popup&apos; s activated state"
+
+#: libraries/merlin/merlin.php:1436
+#, fuzzy
+msgid "Updating"
+msgstr "Aktualizacje"
+
+#: libraries/merlin/merlin.php:1452 libraries/merlin/merlin.php:1550
+#: libraries/merlin/merlin.php:1563 libraries/merlin/merlin.php:1576
+#: libraries/merlin/merlin.php:1589
+#, fuzzy
+msgid "Installing"
+msgstr "Instalowanie"
+
+#: libraries/merlin/merlin.php:1462 libraries/merlin/merlin.php:1551
+#: libraries/merlin/merlin.php:1564 libraries/merlin/merlin.php:1577
+#: libraries/merlin/merlin.php:1590
+#, fuzzy
+msgid "Success"
+msgstr "Sukces"
+
+#: libraries/merlin/merlin.php:1481
+#, fuzzy
+msgid "Invalid content!"
+msgstr "ma nieprawidłową treść"
+
+#: libraries/merlin/merlin.php:1519
+#, fuzzy
+msgid "Error"
+msgstr "Błąd"
+
+#: libraries/merlin/merlin.php:1548
+#, fuzzy
+msgid "Sample"
+msgstr "Próbka"
+
+#: libraries/merlin/merlin.php:1548
+#, fuzzy
+msgid "data."
+msgstr "danych."
+
+#: libraries/merlin/merlin.php:1549 libraries/merlin/merlin.php:1562
+#: libraries/merlin/merlin.php:1575 libraries/merlin/merlin.php:1588
+#, fuzzy
+msgid "Pending"
+msgstr "Oczekujące"
+
+#: libraries/merlin/merlin.php:1560
+#, fuzzy
+msgid "Widgets"
+msgstr "Widgety"
+
+#: libraries/merlin/merlin.php:1561
+#, fuzzy
+msgid "Sample widgets data."
+msgstr "Dane przykładowe widżety."
+
+#: libraries/merlin/merlin.php:1573
+#, fuzzy
+msgid "Sliders"
+msgstr "Panele boczne"
+
+#: libraries/merlin/merlin.php:1574
+#, fuzzy
+msgid "Sample sliders data."
+msgstr "Przykładowe dane suwaków."
+
+#: libraries/merlin/merlin.php:1586
+#, fuzzy
+msgid "Options"
+msgstr "Opcje"
+
+#: libraries/merlin/merlin.php:1587
+#, fuzzy
+msgid "Sample theme options data."
+msgstr "Przykładowe opcje danych motywów."
+
+#: libraries/tgm/class-tgm-plugin-activation.php:333
+#, fuzzy
+msgid "Install Required Plugins"
+msgstr "pole wymagane"
+
+#: libraries/tgm/class-tgm-plugin-activation.php:335
+#, fuzzy, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instaluję wtyczkę: %s"
+
+#: libraries/tgm/class-tgm-plugin-activation.php:336
+#, fuzzy
+msgid "Something went wrong with the plugin API."
+msgstr "Coś poszło nie tak z wtyczką API."
+
+#: libraries/tgm/class-tgm-plugin-activation.php:338
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: libraries/tgm/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: libraries/tgm/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: libraries/tgm/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: libraries/tgm/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: libraries/tgm/class-tgm-plugin-activation.php:363
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: libraries/tgm/class-tgm-plugin-activation.php:368
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: libraries/tgm/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: libraries/tgm/class-tgm-plugin-activation.php:378
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: libraries/tgm/class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: libraries/tgm/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: libraries/tgm/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: libraries/tgm/class-tgm-plugin-activation.php:397
+#, fuzzy
+msgid "Return to Required Plugins Installer"
+msgstr "Powrót do instalatora wymaganych wtyczek"
+
+#: libraries/tgm/class-tgm-plugin-activation.php:399
+#: libraries/tgm/class-tgm-plugin-activation.php:3029
+#, fuzzy
+msgid "Plugin activated successfully."
+msgstr "%1$s zainstalowano i aktywowano pomyślnie."
+
+#: libraries/tgm/class-tgm-plugin-activation.php:400
+#: libraries/tgm/class-tgm-plugin-activation.php:2832
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: libraries/tgm/class-tgm-plugin-activation.php:401
+#, fuzzy, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Nie podjęto żadnych działań. Wtyczka %1$s jest już aktywna."
+
+#: libraries/tgm/class-tgm-plugin-activation.php:402
+#, fuzzy, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Wtyczka nie została aktywowana. Dla tego motywu jest wymagana nowsza wersja "
+"wtyczki %s. Uaktualnij wtyczkę."
+
+#: libraries/tgm/class-tgm-plugin-activation.php:403
+#, fuzzy, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Wszystkie wtyczki zainstalowano i aktywowano pomyślnie. %1$s"
+
+#: libraries/tgm/class-tgm-plugin-activation.php:404
+#, fuzzy
+msgid "Dismiss this notice"
+msgstr "Usuń to powiadomienie"
+
+#: libraries/tgm/class-tgm-plugin-activation.php:405
+#, fuzzy
+msgid "Please contact the administrator of this site for help."
+msgstr "Skontaktuj się z administratorem tej strony."
+
+#: libraries/tgm/class-tgm-plugin-activation.php:520
+#, fuzzy
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+"Ta wtyczka musi zostać zaktualizowana, by była kompatybilna z Twoim motywem."
+
+#: libraries/tgm/class-tgm-plugin-activation.php:521
+#, fuzzy
+msgid "Update Required"
+msgstr "Wymagana aktualizacja"
+
+#: libraries/tgm/class-tgm-plugin-activation.php:635
+#, fuzzy
+msgid "Set the parent_slug config variable instead."
+msgstr "Skonfiguruj parent_slug zamiast zmiennej."
+
+#: libraries/tgm/class-tgm-plugin-activation.php:828
+#: libraries/tgm/class-tgm-plugin-activation.php:3438
+#, fuzzy
+msgid "Return to the Dashboard"
+msgstr "Powrót do panelu"
+
+#: libraries/tgm/class-tgm-plugin-activation.php:935
+#, fuzzy
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr "Pobrana paczka wtyczki nie zawiera folderu z wymaganym plikiem."
+
+#: libraries/tgm/class-tgm-plugin-activation.php:935
+#: libraries/tgm/class-tgm-plugin-activation.php:938
+#, fuzzy
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Skontaktuj się z dostawcą wtyczki i poproś aby przygotował paczkę z wtyczką "
+"zgodnie z wytycznymi WordPress'a."
+
+#: libraries/tgm/class-tgm-plugin-activation.php:938
+#, fuzzy
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Paczka wtyczki zawiera więcej niż jeden plik, ale pliki nie są spakowane do "
+"folderu."
+
+#: libraries/tgm/class-tgm-plugin-activation.php:1116
+#: libraries/tgm/class-tgm-plugin-activation.php:2828
+#, fuzzy
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "i"
+
+#: libraries/tgm/class-tgm-plugin-activation.php:1881
+#, fuzzy, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: libraries/tgm/class-tgm-plugin-activation.php:2167
+#, fuzzy
+msgid "Required"
+msgstr "Wymagana"
+
+#: libraries/tgm/class-tgm-plugin-activation.php:2170
+#, fuzzy
+msgid "Recommended"
+msgstr "Zalecane"
+
+#: libraries/tgm/class-tgm-plugin-activation.php:2186
+#, fuzzy
+msgid "WordPress Repository"
+msgstr "Repozytorium WordPress"
+
+#: libraries/tgm/class-tgm-plugin-activation.php:2189
+#, fuzzy
+msgid "External Source"
+msgstr "Zewnętrzne źródło"
+
+#: libraries/tgm/class-tgm-plugin-activation.php:2192
+#, fuzzy
+msgid "Pre-Packaged"
+msgstr "Pre-Packaged"
+
+#: libraries/tgm/class-tgm-plugin-activation.php:2209
+#, fuzzy
+msgid "Not Installed"
+msgstr "Zainstalowane"
+
+#: libraries/tgm/class-tgm-plugin-activation.php:2213
+#, fuzzy
+msgid "Installed But Not Activated"
+msgstr "Zainstalowano ale nie aktywowano"
+
+#: libraries/tgm/class-tgm-plugin-activation.php:2215
+#, fuzzy
+msgid "Active"
+msgstr "Aktywny"
+
+#: libraries/tgm/class-tgm-plugin-activation.php:2221
+#, fuzzy
+msgid "Required Update not Available"
+msgstr "Wymagana aktualizacja nie jest dostępna"
+
+#: libraries/tgm/class-tgm-plugin-activation.php:2224
+#, fuzzy
+msgid "Requires Update"
+msgstr "Wymaga aktualizacji"
+
+#: libraries/tgm/class-tgm-plugin-activation.php:2227
+#, fuzzy
+msgid "Update recommended"
+msgstr "Zalecana aktualizacja"
+
+#: libraries/tgm/class-tgm-plugin-activation.php:2235
+#, fuzzy, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr "%1$s / %2$s"
+
+#: libraries/tgm/class-tgm-plugin-activation.php:2280
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: libraries/tgm/class-tgm-plugin-activation.php:2283
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: libraries/tgm/class-tgm-plugin-activation.php:2286
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: libraries/tgm/class-tgm-plugin-activation.php:2289
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: libraries/tgm/class-tgm-plugin-activation.php:2371
+#, fuzzy
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "nieznany"
+
+#: libraries/tgm/class-tgm-plugin-activation.php:2379
+#, fuzzy
+msgid "Installed version:"
+msgstr "Zainstalowana wersja:"
+
+#: libraries/tgm/class-tgm-plugin-activation.php:2387
+#, fuzzy
+msgid "Minimum required version:"
+msgstr "Minimalny wymagany nr wersji:"
+
+#: libraries/tgm/class-tgm-plugin-activation.php:2399
+#, fuzzy
+msgid "Available version:"
+msgstr "Dostępna wersja:"
+
+#: libraries/tgm/class-tgm-plugin-activation.php:2422
+#, fuzzy, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+"Brak wtyczek do instalacji lub aktywacji. <a href=\"%1$s\">Wróć do Kokpitu</"
+"a>"
+
+#: libraries/tgm/class-tgm-plugin-activation.php:2436
+#, fuzzy
+msgid "Plugin"
+msgstr "Wtyczka"
+
+#: libraries/tgm/class-tgm-plugin-activation.php:2437
+#, fuzzy
+msgid "Source"
+msgstr "Źródło"
+
+#: libraries/tgm/class-tgm-plugin-activation.php:2442
+#, fuzzy
+msgid "Version"
+msgstr "Wersja"
+
+#: libraries/tgm/class-tgm-plugin-activation.php:2443
+#, fuzzy
+msgid "Status"
+msgstr "Status"
+
+#: libraries/tgm/class-tgm-plugin-activation.php:2491
+#, fuzzy, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "Instaluj %2$s"
+
+#: libraries/tgm/class-tgm-plugin-activation.php:2495
+#, fuzzy, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr "Zaktualizuj %2$s"
+
+#: libraries/tgm/class-tgm-plugin-activation.php:2500
+#, fuzzy, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "Aktywuj %2$s"
+
+#: libraries/tgm/class-tgm-plugin-activation.php:2570
+#, fuzzy
+msgid "Upgrade message from the plugin author:"
+msgstr "Wiadomość o aktualizacji od autora wtyczki:"
+
+#: libraries/tgm/class-tgm-plugin-activation.php:2643
+#, fuzzy
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"Nie zaznaczono żadnej wtyczki do instalacji. Akcja nie została wykonana."
+
+#: libraries/tgm/class-tgm-plugin-activation.php:2645
+#, fuzzy
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"Nie zaznaczono żadnej wtyczki do aktualizacji. Akcja nie została wykonana."
+
+#: libraries/tgm/class-tgm-plugin-activation.php:2681
+#, fuzzy
+msgid "No plugins are available to be installed at this time."
+msgstr "Na tę chwilę brak wtyczek do zainstalowania."
+
+#: libraries/tgm/class-tgm-plugin-activation.php:2683
+#, fuzzy
+msgid "No plugins are available to be updated at this time."
+msgstr "Na razie brak dostępnych wtyczek do aktualizacji."
+
+#: libraries/tgm/class-tgm-plugin-activation.php:2788
+#, fuzzy
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+"Nie zaznaczono żadnej wtyczki do aktywacji. Akcja nie została wykonana."
+
+#: libraries/tgm/class-tgm-plugin-activation.php:2814
+#, fuzzy
+msgid "No plugins are available to be activated at this time."
+msgstr "Na tę chwilę brak wtyczek do aktywowania."
+
+#: libraries/tgm/class-tgm-plugin-activation.php:3028
+#, fuzzy
+msgid "Plugin activation failed."
+msgstr "Aktywacja wtyczki nie powiodła się."
+
+#: libraries/tgm/class-tgm-plugin-activation.php:3362
+#, fuzzy, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Aktualizacja wtyczki %1$s (%2$d/%3$d)"
+
+#: libraries/tgm/class-tgm-plugin-activation.php:3364
+#, fuzzy, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Wystąpił błąd podczas instalacji %1$s: <strong>%2$s</strong>."
+
+#: libraries/tgm/class-tgm-plugin-activation.php:3365
+#, fuzzy, php-format
+msgid "The installation of %1$s failed."
+msgstr "Instalacja wtyczki %1$s nie udała się."
+
+#: libraries/tgm/class-tgm-plugin-activation.php:3369
+#, fuzzy
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Proces instalacji i aktywacji rozpoczęty. To może potrwać chwilę, w "
+"zależności od serwera. Prosimy o cierpliwość."
+
+#: libraries/tgm/class-tgm-plugin-activation.php:3370
+#, fuzzy, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s zainstalowano i aktywowano pomyślnie."
+
+#: libraries/tgm/class-tgm-plugin-activation.php:3370
+#: libraries/tgm/class-tgm-plugin-activation.php:3376
+#, fuzzy
+msgid "Show Details"
+msgstr "Pokaż szczegóły"
+
+#: libraries/tgm/class-tgm-plugin-activation.php:3370
+#: libraries/tgm/class-tgm-plugin-activation.php:3376
+#, fuzzy
+msgid "Hide Details"
+msgstr "Ukryj szczegóły"
+
+#: libraries/tgm/class-tgm-plugin-activation.php:3371
+#, fuzzy
+msgid "All installations and activations have been completed."
+msgstr "Wszystkie instalacje i aktywacje zostały ukończone."
+
+#: libraries/tgm/class-tgm-plugin-activation.php:3372
+#, fuzzy, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalowanie i aktywowanie wtyczki %1$s (%2$d/%3$d)"
+
+#: libraries/tgm/class-tgm-plugin-activation.php:3375
+#, fuzzy
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Proces instalacji rozpoczęty. To może potrwać chwilę, w zależności od "
+"serwera. Prosimy o cierpliwość."
+
+#: libraries/tgm/class-tgm-plugin-activation.php:3376
+#, fuzzy, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s zainstalowano pomyślnie."
+
+#: libraries/tgm/class-tgm-plugin-activation.php:3377
+#, fuzzy
+msgid "All installations have been completed."
+msgstr "Wszystkie instalacje zakończone."
+
+#: libraries/tgm/class-tgm-plugin-activation.php:3378
+#, fuzzy, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalowanie wtyczki %1$s (%2$d/%3$d)"
+
+#: templates/search-results.php:65
+#, fuzzy
+msgid "Sorry, nothing matched your search criteria"
+msgstr ""
+"Przepraszamy, ale nie ma treści odpowiadającej podanym kryteriom "
+"wyszukiwania."
+
+#: updater/Puc/v4p2/Plugin/UpdateChecker.php:358
+#, fuzzy
+msgid "Check for updates"
+msgstr "Sprawdź dostępność aktualizacji"
+
+#: updater/Puc/v4p2/Plugin/UpdateChecker.php:405
+#, fuzzy, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr "Wtyczka %s jest na bieżąco."
+
+#: updater/Puc/v4p2/Plugin/UpdateChecker.php:407
+#, fuzzy, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr "Nowa wersja %s jest dostępna."
+
+#: updater/Puc/v4p2/Plugin/UpdateChecker.php:409
+#, fuzzy, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "Nieznany status sprawdzania „%s”"
+
+#: updater/Puc/v4p2/Vcs/PluginUpdateChecker.php:85
+#, fuzzy
+msgid "There is no changelog available."
+msgstr "Nie ma dostępnych dzienników zmian."
+
+#. Plugin Name of the plugin/theme
+#, fuzzy
+msgid "PT Real Estate Professional"
+msgstr "PT nieruchomości Professional"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "http://thepixeltribe.com"
+msgstr "http://thepixeltribe.com"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid "Add premium features to real estate lite theme"
+msgstr "Dodaj funkcje premium do tematu lite nieruchomości"
+
+#. Author of the plugin/theme
+#, fuzzy
+msgid "Pixel Tribe"
+msgstr "Plemię pikseli"

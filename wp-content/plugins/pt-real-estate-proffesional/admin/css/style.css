@@ -1,0 +1,4 @@
+#customize-theme-controls .upsellsection  .accordion-section-title {
+    border: none;
+    display: none !important;
+}

@@ -1,0 +1,13 @@
+fixed location data  - 28/3/2017
+fixed suffix & prefix - 3/30/2017
+removed front page sort - 7-12-2017
+
+Aug 17 2017
+- added toggle switches for single property page
+- Added Polish lang
+
+Aug 23 2017
+- Fixed twitter icon
+- fixed bath icon
+- fixed video tour toggle
+-
